@@ -1,0 +1,600 @@
+001 A person boards an airplane.
+002 A person directs an airplane.
+003 A person exits an airplane.
+004 A person flies an airplane.
+005 A person inspects an airplane.
+006 A person loads an airplane.
+007 A person rides an airplane.
+008 A person sits on an airplane.
+009 A person washes an airplane.
+010 A person does not interact with an airplane.
+011 A person carries a bicycle.
+012 A person holds a bicycle.
+013 A person inspects a bicycle.
+014 A person jumps a bicycle.
+015 A person hops on a bicycle.
+016 A person parks a bicycle.
+017 A person pushes a bicycle.
+018 A person repairs a bicycle.
+019 A person rides a bicycle.
+020 A person sits on a bicycle.
+021 A person straddles a bicycle.
+022 A person walks a bicycle.
+023 A person washes a bicycle.
+024 A person does not interact with a bicycle.
+025 A person chases a bird.
+026 A person feeds a bird.
+027 A person holds a bird.
+028 A person pets a bird.
+029 A person releases a bird.
+030 A person watches a bird.
+031 A person does not interact with a bird.
+032 A person boards a boat.
+033 A person drives a boat.
+034 A person exits a boat.
+035 A person inspects a boat.
+036 A person jumps a boat.
+037 A person launches a boat.
+038 A person repairs a boat.
+039 A person rides a boat.
+040 A person rows a boat.
+041 A person sails a boat.
+042 A person sits on a boat.
+043 A person stands on a boat.
+044 A person ties a boat.
+045 A person washes a boat.
+046 A person does not interact with a boat.
+047 A person carries a bottle.
+048 A person drinks with a bottle.
+049 A person holds a bottle.
+050 A person inspects a bottle.
+051 A person licks a bottle.
+052 A person opens a bottle.
+053 A person pours a bottle.
+054 A person does not interact with a bottle.
+055 A person boards a bus.
+056 A person directs a bus.
+057 A person drives a bus.
+058 A person exits a bus.
+059 A person inspects a bus.
+060 A person loads a bus.
+061 A person rides a bus.
+062 A person sits on a bus.
+063 A person washes a bus.
+064 A person waves a bus.
+065 A person does not interact with a bus.
+066 A person boards a car.
+067 A person directs a car.
+068 A person drives a car.
+069 A person hoses a car.
+070 A person inspects a car.
+071 A person jumps a car.
+072 A person loads a car.
+073 A person parks a car.
+074 A person rides a car.
+075 A person washes a car.
+076 A person does not interact with a car.
+077 A person dries a cat.
+078 A person feeds a cat.
+079 A person holds a cat.
+080 A person hugs a cat.
+081 A person kisses a cat.
+082 A person pets a cat.
+083 A person scratches a cat.
+084 A person washes a cat.
+085 A person chases a cat.
+086 A person does not interact with a cat.
+087 A person carries a chair.
+088 A person holds a chair.
+089 A person lies on a chair.
+090 A person sits on a chair.
+091 A person stands on a chair.
+092 A person does not interact with a chair.
+093 A person carries a couch.
+094 A person lies on a couch.
+095 A person sits on a couch.
+096 A person does not interact with a couch.
+097 A person feeds a cow.
+098 A person herds a cow.
+099 A person holds a cow.
+100 A person hugs a cow.
+101 A person kisses a cow.
+102 A person lassos a cow.
+103 A person milks a cow.
+104 A person pets a cow.
+105 A person rides a cow.
+106 A person walks a cow.
+107 A person does not interact with a cow.
+108 A person cleans a dining table.
+109 A person eats at a dining table.
+110 A person sits at a dining table.
+111 A person does not interact with a dining table.
+112 A person carries a dog.
+113 A person dries a dog.
+114 A person feeds a dog.
+115 A person grooms a dog.
+116 A person holds a dog.
+117 A person hoses a dog.
+118 A person hugs a dog.
+119 A person inspects a dog.
+120 A person kisses a dog.
+121 A person pets a dog.
+122 A person runs a dog.
+123 A person scratches a dog.
+124 A person straddles a dog.
+125 A person trains a dog.
+126 A person walks a dog.
+127 A person washes a dog.
+128 A person chases a dog.
+129 A person does not interact with a dog.
+130 A person feeds a horse.
+131 A person grooms a horse.
+132 A person holds a horse.
+133 A person hugs a horse.
+134 A person jumps a horse.
+135 A person kisses a horse.
+136 A person loads a horse.
+137 A person hops on a horse.
+138 A person pets a horse.
+139 A person races a horse.
+140 A person rides a horse.
+141 A person runs a horse.
+142 A person straddles a horse.
+143 A person trains a horse.
+144 A person walks a horse.
+145 A person washes a horse.
+146 A person does not interact with a horse.
+147 A person holds a motorcycle.
+148 A person inspects a motorcycle.
+149 A person jumps a motorcycle.
+150 A person hops on a motorcycle.
+151 A person parks a motorcycle.
+152 A person pushes a motorcycle.
+153 A person races a motorcycle.
+154 A person rides a motorcycle.
+155 A person sits on a motorcycle.
+156 A person straddles a motorcycle.
+157 A person turns a motorcycle.
+158 A person walks a motorcycle.
+159 A person washes a motorcycle.
+160 A person does not interact with a motorcycle.
+161 A person carries a person.
+162 A person greets a person.
+163 A person holds a person.
+164 A person hugs a person.
+165 A person kisses a person.
+166 A person stabs a person.
+167 A person tags a person.
+168 A person teaches a person.
+169 A person licks a person.
+170 A person does not interact with a person.
+171 A person carries a potted plant.
+172 A person holds a potted plant.
+173 A person hoses a potted plant.
+174 A person does not interact with a potted plant.
+175 A person carries a sheep.
+176 A person feeds a sheep.
+177 A person herds a sheep.
+178 A person holds a sheep.
+179 A person hugs a sheep.
+180 A person kisses a sheep.
+181 A person pets a sheep.
+182 A person rides a sheep.
+183 A person shears a sheep.
+184 A person walks a sheep.
+185 A person washes a sheep.
+186 A person does not interact with a sheep.
+187 A person boards a train.
+188 A person drives a train.
+189 A person exits a train.
+190 A person loads a train.
+191 A person rides a train.
+192 A person sits on a train.
+193 A person washes a train.
+194 A person does not interact with a train.
+195 A person controls a tv.
+196 A person repairs a tv.
+197 A person watches a tv.
+198 A person does not interact with a tv.
+199 A person buys an apple.
+200 A person cuts an apple.
+201 A person eats an apple.
+202 A person holds an apple.
+203 A person inspects an apple.
+204 A person peels an apple.
+205 A person picks an apple.
+206 A person smells an apple.
+207 A person washes an apple.
+208 A person does not interact with an apple.
+209 A person carries a backpack.
+210 A person holds a backpack.
+211 A person inspects a backpack.
+212 A person opens a backpack.
+213 A person wears a backpack.
+214 A person does not interact with a backpack.
+215 A person buys a banana.
+216 A person carries a banana.
+217 A person cuts a banana.
+218 A person eats a banana.
+219 A person holds a banana.
+220 A person inspects a banana.
+221 A person peels a banana.
+222 A person picks a banana.
+223 A person smells a banana.
+224 A person does not interact with a banana.
+225 A person breaks a baseball bat.
+226 A person carries a baseball bat.
+227 A person holds a baseball bat.
+228 A person signs a baseball bat.
+229 A person swings a baseball bat.
+230 A person throws a baseball bat.
+231 A person wields a baseball bat.
+232 A person does not interact with a baseball bat.
+233 A person holds a baseball glove.
+234 A person wears a baseball glove.
+235 A person does not interact with a baseball glove.
+236 A person feeds a bear.
+237 A person hunts a bear.
+238 A person watches a bear.
+239 A person does not interact with a bear.
+240 A person cleans a bed.
+241 A person lies on a bed.
+242 A person sits on a bed.
+243 A person does not interact with a bed.
+244 A person inspects a bench.
+245 A person lies on a bench.
+246 A person sits on a bench.
+247 A person does not interact with a bench.
+248 A person carries a book.
+249 A person holds a book.
+250 A person opens a book.
+251 A person reads a book.
+252 A person does not interact with a book.
+253 A person holds a bowl.
+254 A person stirs a bowl.
+255 A person washes a bowl.
+256 A person licks a bowl.
+257 A person does not interact with a bowl.
+258 A person cuts broccoli.
+259 A person eats broccoli.
+260 A person holds broccoli.
+261 A person smells broccoli.
+262 A person stirs broccoli.
+263 A person washes broccoli.
+264 A person does not interact with broccoli.
+265 A person blows a cake.
+266 A person carries a cake.
+267 A person cuts a cake.
+268 A person eats a cake.
+269 A person holds a cake.
+270 A person lights a cake.
+271 A person makes a cake.
+272 A person picks up a cake.
+273 A person does not interact with a cake.
+274 A person carries a carrot.
+275 A person cooks a carrot.
+276 A person cuts a carrot.
+277 A person eats a carrot.
+278 A person holds a carrot.
+279 A person peels a carrot.
+280 A person smells a carrot.
+281 A person stirs a carrot.
+282 A person washes a carrot.
+283 A person does not interact with a carrot.
+284 A person carries a cell phone.
+285 A person holds a cell phone.
+286 A person reads a cell phone.
+287 A person repairs a cell phone.
+288 A person talks on a cell phone.
+289 A person texts on a cell phone.
+290 A person does not interact with a cell phone.
+291 A person checks a clock.
+292 A person holds a clock.
+293 A person repairs a clock.
+294 A person sets a clock.
+295 A person does not interact with a clock.
+296 A person carries a cup.
+297 A person drinks with a cup.
+298 A person holds a cup.
+299 A person inspects a cup.
+300 A person pours a cup.
+301 A person sips a cup.
+302 A person smells a cup.
+303 A person fills a cup.
+304 A person washes a cup.
+305 A person does not interact with a cup.
+306 A person buys a donut.
+307 A person carries a donut.
+308 A person eats a donut.
+309 A person holds a donut.
+310 A person makes a donut.
+311 A person picks up a donut.
+312 A person smells a donut.
+313 A person does not interact with a donut.
+314 A person feeds an elephant.
+315 A person holds an elephant.
+316 A person hoses an elephant.
+317 A person hugs an elephant.
+318 A person kisses an elephant.
+319 A person hops on an elephant.
+320 A person pets an elephant.
+321 A person rides an elephant.
+322 A person walks an elephant.
+323 A person washes an elephant.
+324 A person watches an elephant.
+325 A person does not interact with an elephant.
+326 A person hugs a fire hydrant.
+327 A person inspects a fire hydrant.
+328 A person opens a fire hydrant.
+329 A person paints a fire hydrant.
+330 A person does not interact with a fire hydrant.
+331 A person holds a fork.
+332 A person lifts a fork.
+333 A person sticks a fork.
+334 A person licks a fork.
+335 A person washes a fork.
+336 A person does not interact with a fork.
+337 A person blocks a frisbee.
+338 A person catches a frisbee.
+339 A person holds a frisbee.
+340 A person spins a frisbee.
+341 A person throws a frisbee.
+342 A person does not interact with a frisbee.
+343 A person feeds a giraffe.
+344 A person kisses a giraffe.
+345 A person pets a giraffe.
+346 A person rides a giraffe.
+347 A person watches a giraffe.
+348 A person does not interact with a giraffe.
+349 A person holds a hair drier.
+350 A person operates a hair drier.
+351 A person repairs a hair drier.
+352 A person does not interact with a hair drier.
+353 A person carries a handbag.
+354 A person holds a handbag.
+355 A person inspects a handbag.
+356 A person does not interact with a handbag.
+357 A person carries a hot dog.
+358 A person cooks a hot dog.
+359 A person cuts a hot dog.
+360 A person eats a hot dog.
+361 A person holds a hot dog.
+362 A person makes a hot dog.
+363 A person does not interact with a hot dog.
+364 A person carries a keyboard.
+365 A person cleans a keyboard.
+366 A person holds a keyboard.
+367 A person types on a keyboard.
+368 A person does not interact with a keyboard.
+369 A person assembles a kite.
+370 A person carries a kite.
+371 A person flies a kite.
+372 A person holds a kite.
+373 A person inspects a kite.
+374 A person launches a kite.
+375 A person pulls a kite.
+376 A person does not interact with a kite.
+377 A person cuts with a knife.
+378 A person holds a knife.
+379 A person sticks a knife.
+380 A person washes a knife.
+381 A person wields a knife.
+382 A person licks a knife.
+383 A person does not interact with a knife.
+384 A person holds a laptop.
+385 A person opens a laptop.
+386 A person reads a laptop.
+387 A person repairs a laptop.
+388 A person types on a laptop.
+389 A person does not interact with a laptop.
+390 A person cleans a microwave.
+391 A person opens a microwave.
+392 A person operates a microwave.
+393 A person does not interact with a microwave.
+394 A person controls a mouse.
+395 A person holds a mouse.
+396 A person repairs a mouse.
+397 A person does not interact with a mouse.
+398 A person buys an orange.
+399 A person cuts an orange.
+400 A person eats an orange.
+401 A person holds an orange.
+402 A person inspects an orange.
+403 A person peels an orange.
+404 A person picks an orange.
+405 A person squeezes an orange.
+406 A person washes an orange.
+407 A person does not interact with an orange.
+408 A person cleans an oven.
+409 A person holds an oven.
+410 A person inspects an oven.
+411 A person opens an oven.
+412 A person repairs an oven.
+413 A person operates an oven.
+414 A person does not interact with an oven.
+415 A person checks a parking meter.
+416 A person pays a parking meter.
+417 A person repairs a parking meter.
+418 A person does not interact with a parking meter.
+419 A person buys a pizza.
+420 A person carries a pizza.
+421 A person cooks a pizza.
+422 A person cuts a pizza.
+423 A person eats a pizza.
+424 A person holds a pizza.
+425 A person makes a pizza.
+426 A person picks up a pizza.
+427 A person slides a pizza.
+428 A person smells a pizza.
+429 A person does not interact with a pizza.
+430 A person cleans a refrigerator.
+431 A person holds a refrigerator.
+432 A person moves a refrigerator.
+433 A person opens a refrigerator.
+434 A person does not interact with a refrigerator.
+435 A person holds a remote.
+436 A person points a remote.
+437 A person swings a remote.
+438 A person does not interact with a remote.
+439 A person carries a sandwich.
+440 A person cooks a sandwich.
+441 A person cuts a sandwich.
+442 A person eats a sandwich.
+443 A person holds a sandwich.
+444 A person makes a sandwich.
+445 A person does not interact with a sandwich.
+446 A person cuts with scissors.
+447 A person holds scissors.
+448 A person opens scissors.
+449 A person does not interact with scissors.
+450 A person cleans a sink.
+451 A person repairs a sink.
+452 A person washes a sink.
+453 A person does not interact with a sink.
+454 A person carries a skateboard.
+455 A person flips a skateboard.
+456 A person grinds a skateboard.
+457 A person holds a skateboard.
+458 A person jumps a skateboard.
+459 A person picks up a skateboard.
+460 A person rides a skateboard.
+461 A person sits on a skateboard.
+462 A person stands on a skateboard.
+463 A person does not interact with a skateboard.
+464 A person adjusts skis.
+465 A person carries skis.
+466 A person holds skis.
+467 A person inspects skis.
+468 A person jumps skis.
+469 A person picks up skis.
+470 A person repairs skis.
+471 A person rides skis.
+472 A person stands on skis.
+473 A person wears skis.
+474 A person does not interact with skis.
+475 A person adjusts a snowboard.
+476 A person carries a snowboard.
+477 A person grinds a snowboard.
+478 A person holds a snowboard.
+479 A person jumps a snowboard.
+480 A person rides a snowboard.
+481 A person stands on a snowboard.
+482 A person wears a snowboard.
+483 A person does not interact with a snowboard.
+484 A person holds a spoon.
+485 A person licks a spoon.
+486 A person washes a spoon.
+487 A person sips a spoon.
+488 A person does not interact with a spoon.
+489 A person blocks a sports ball.
+490 A person carries a sports ball.
+491 A person catches a sports ball.
+492 A person dribbles a sports ball.
+493 A person hits a sports ball.
+494 A person holds a sports ball.
+495 A person inspects a sports ball.
+496 A person kicks a sports ball.
+497 A person picks up a sports ball.
+498 A person serves a sports ball.
+499 A person signs a sports ball.
+500 A person spins a sports ball.
+501 A person throws a sports ball.
+502 A person does not interact with a sports ball.
+503 A person holds a stop sign.
+504 A person stands under a stop sign.
+505 A person stops at a stop sign.
+506 A person does not interact with a stop sign.
+507 A person carries a suitcase.
+508 A person drags a suitcase.
+509 A person holds a suitcase.
+510 A person hugs a suitcase.
+511 A person loads a suitcase.
+512 A person opens a suitcase.
+513 A person packs a suitcase.
+514 A person picks up a suitcase.
+515 A person zips a suitcase.
+516 A person does not interact with a suitcase.
+517 A person carries a surfboard.
+518 A person drags a surfboard.
+519 A person holds a surfboard.
+520 A person inspects a surfboard.
+521 A person jumps a surfboard.
+522 A person lies on a surfboard.
+523 A person loads a surfboard.
+524 A person rides a surfboard.
+525 A person stands on a surfboard.
+526 A person sits on a surfboard.
+527 A person washes a surfboard.
+528 A person does not interact with a surfboard.
+529 A person carries a teddy bear.
+530 A person holds a teddy bear.
+531 A person hugs a teddy bear.
+532 A person kisses a teddy bear.
+533 A person does not interact with a teddy bear.
+534 A person carries a tennis racket.
+535 A person holds a tennis racket.
+536 A person inspects a tennis racket.
+537 A person swings a tennis racket.
+538 A person does not interact with a tennis racket.
+539 A person adjusts a tie.
+540 A person cuts a tie.
+541 A person holds a tie.
+542 A person inspects a tie.
+543 A person pulls a tie.
+544 A person ties a tie.
+545 A person wears a tie.
+546 A person does not interact with a tie.
+547 A person holds a toaster.
+548 A person operates a toaster.
+549 A person repairs a toaster.
+550 A person does not interact with a toaster.
+551 A person cleans a toilet.
+552 A person flushes a toilet.
+553 A person opens a toilet.
+554 A person repairs a toilet.
+555 A person sits on a toilet.
+556 A person stands on a toilet.
+557 A person washes a toilet.
+558 A person does not interact with a toilet.
+559 A person brushes with a toothbrush.
+560 A person holds a toothbrush.
+561 A person washes a toothbrush.
+562 A person does not interact with a toothbrush.
+563 A person installs a traffic light.
+564 A person repairs a traffic light.
+565 A person stands under a traffic light.
+566 A person stops at a traffic light.
+567 A person does not interact with a traffic light.
+568 A person directs a truck.
+569 A person drives a truck.
+570 A person inspects a truck.
+571 A person loads a truck.
+572 A person repairs a truck.
+573 A person rides a truck.
+574 A person sits on a truck.
+575 A person washes a truck.
+576 A person does not interact with a truck.
+577 A person carries an umbrella.
+578 A person holds an umbrella.
+579 A person loses an umbrella.
+580 A person opens an umbrella.
+581 A person repairs an umbrella.
+582 A person sets an umbrella.
+583 A person stands under an umbrella.
+584 A person does not interact with an umbrella.
+585 A person holds a vase.
+586 A person makes a vase.
+587 A person paints a vase.
+588 A person does not interact with a vase.
+589 A person fills a wine glass.
+590 A person holds a wine glass.
+591 A person sips a wine glass.
+592 A person toasts a wine glass.
+593 A person licks a wine glass.
+594 A person washes a wine glass.
+595 A person does not interact with a wine glass.
+596 A person feeds a zebra.
+597 A person holds a zebra.
+598 A person pets a zebra.
+599 A person watches a zebra.
+600 A person does not interact with a zebra.
